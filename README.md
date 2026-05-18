@@ -1,42 +1,36 @@
-# PortfolioHUB
+# Portfolio Lucas Vicente
 
 ## Sobre o Projeto
-Este repositório foi desenvolvido como atividade acadêmica com o objetivo de apresentar projetos pessoais e profissionais utilizando GitHub, versionamento e Github Pages.
+Este repositório foi desenvolvido como atividade acadêmica para demonstrar conhecimentos em versionamento com Git, hospedagem no GitHub e publicação utilizando GitHub Pages.
 
-## Conteúdo do Repositório
-
-### Currículo
-Currículo profissional contendo informações acadêmicas e habilidades técnicas.
-
-### Portfólio
-Apresentação dos projetos e trabalhos realizados.
-
-### Site
-Página desenvolvida para apresentação profissional online.
-
-### Vídeo de Apresentação
-Vídeo explicativo apresentando o repositório e seus recursos.
+## Objetivo
+Criar um portfólio profissional contendo:
+- currículo;
+- projetos;
+- documentação;
+- integração profissional;
+- publicação web.
 
 ## Tecnologias Utilizadas
+- HTML5
+- CSS3
 - Git
 - GitHub
 - GitHub Pages
-- HTML5
-- CSS3
+
+## Funcionalidades
+- Página profissional online;
+- Exibição de projetos;
+- Organização de portfólio;
+- Compartilhamento público.
 
 ## Links do Projeto
 
-### Currículo
-https://docs.google.com/document/d/1dshf206xbLsP1xbJVkddLkiw7W-l_JWQFkxuzpCVMSg/edit?usp=sharing
+### Portfólio Online
+https://lucas2007vicentegomes-web.github.io/Portfolio-Lucas-Vicente/
 
-### Portfólio
-https://docs.google.com/presentation/d/17x9na_4f5ULP_caRX4T1n2AK0-jJXWmK0nWEo0qsWUM/edit?slide=id.gc6f80d1ff_0_55#slide=id.gc6f80d1ff_0_55
-
-### Site
-https://sites.google.com/d/1CmD7HAtdbFz0izAHVbF4zE2ZhCQWt15t/p/1vSFuJZonmMqUv_oqzBojbJaaZA-TUsn4/edit
-
-### Vídeo
-https://youtu.be/E18qLQ3e6EI?si=AupMzNaoL7Ll2OrL
+### Vídeo de Apresentação
+https://youtu.be/E18qLQ3e6EI
 
 ## Autor
-Desenvolvido por Lucas Vicente.
+Lucas Vicente
